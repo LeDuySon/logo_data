@@ -20,6 +20,7 @@ mbbank
 msb
 namabank
 ncb-bank
+vbsp
 ocb
 oceanbank
 pgbank
@@ -29,11 +30,13 @@ sacombank
 saigonbank
 scb
 shb
+seabank
 shinhan
 southernbank
 standardchartered
 techcombank
 tpb
+vdbank
 vib
 vietabank
 vietbank
