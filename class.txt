@@ -3,17 +3,11 @@ acb
 agribank
 baca-bank
 baovietbank
-bidc
 bidv
-ca-cib
-citibank
-db
 dongabank
 eximbank
 gpbank
 hdbank
-hlb
-Indovinabank
 kienlongbank
 lienvietpostbank
 mbbank
